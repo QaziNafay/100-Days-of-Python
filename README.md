@@ -1,6 +1,6 @@
 # 100 Days of Python
 
-This repository serves as my practice ground for learning
+This repository serves as my practice ground for learning python
 
 ## System Info
 * **Language:** Python 3.13
