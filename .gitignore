@@ -1,0 +1,11 @@
+# Block PyCharm Settings
+.idea/
+
+# Block Python Caches
+__pycache__/
+*.pyc
+
+# Block Virtual Environments
+.venv/
+venv/
+env/
