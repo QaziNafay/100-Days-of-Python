@@ -12,15 +12,63 @@ This repository serves as my practice ground for learning python
 
 # Day 1: Python Basics
 
-## 🧠 Core Functions Learned
+##  Core Functions Learned
 * **`print()`**: I learned about the `print()` function today and how it displays an output in the IDE.
 * **`\n` (Escape Character)**: Simultaneously, I learned about the `\n` escape character, which helps with line breaks.
 * **`input()`**: The `input()` function serves as a prompt to capture data from the user.
 * **`len()`**: The `len()` function can then be used to count characters in a given string.
 
-## 📝 Key Concepts
+##  Key Concepts
 * **String Concatenation**: String concatenation allows you to merge two or more string values with the `+` symbol, such as `"Wonder" + "Woman"`; however, it does not add a space automatically.
 * **Variables**: Variables can be defined as names assigned to data; however, within the syntax of Python, they must follow certain rules: spaces must not be used, and a variable name should not begin with a number.
 
-## 🚀 Daily Project
+##  Daily Project
 * **Brand Name Generator**: A Brand Name Generator was created from the basics of Python I learned today.
+
+# Day 2: Data Types
+
+
+
+## String
+Can be defined as text data, however, it can also include numeric values and even emojis.
+
+## Floats
+Numerical data with decimals like 3.14.
+
+## Booleans
+Can have two values: True or False, it could be useful in conditional data types.
+
+## Subscripting
+Subscripting – returns a letter from string value, [0] counts as first letter
+
+
+## Type Function
+Type() function can return the type of data in output, also referred to as type checking.
+
+
+## Type Conversion / Type Casting
+Type conversion / type casting refers to converting a type of data into another, i.e. numerical string data to integer.
+
+
+## Mathematical Operations in Python
++ operator is used for addition i.e. print(11 + 22)  
+- operator used for subtraction i.e. print(22 - 11)  
+* operator is used for multiplication i.e. print(11 * 11), while the operator ** is used for ^ or power i.e. print(4 ** 4)  
+/ operator is used for division i.e. print(22 / 11),  
+
+However, it may return a float value, a default Python behavior, sometimes referred to as “implicit type casting”. To overcome this, // can be used instead i.e. print(22 // 11), however, this second may not be ideal as it also removes values recurring after decimals.
+
+## PEMDAS
+PEMDAS should be used (Parenthesis, exponents, multiplication/division, addition/subtraction) while doing mathematical operations, and should be kept in mind as Python will prioritize all and produce unexpected results if PEMDAS is not being used, as Python executes from left to right.
+
+## Round Function
+round() function can round the value obtained via operator / to nearest whole number, while with round( , n digits) the number of digits after decimal can be specified.
+
+
+## Assignment Operators
+Assignment operators are used to change values of variables by performing an operation and storing the result back in the same variable using assignment operators such as +=, -=, *=, /=.
+
+
+
+## F String
+F string allows multiple data types to be present within a single expression.
