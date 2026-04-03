@@ -22,6 +22,7 @@ amount_per_person = bill / people
 print("Each person should pay $" + str(round(amount_per_person, 2)))
 # Subscripting
 print("Welcome to random mini game")
-number = input("Enter a 6 digit whole number: ")
-print("first digit: " + number[0])
-print("last digit: " + number[-1])
+number = int(input("Enter a 6 digit whole number: "))
+number_as_text = str(number)
+print("first digit: " + number_as_text[0])
+print("last digit: " + number_as_text[-1])
