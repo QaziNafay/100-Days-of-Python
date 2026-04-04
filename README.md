@@ -72,3 +72,20 @@ Assignment operators are used to change values of variables by performing an ope
 
 ## F String
 F string allows multiple data types to be present within a single expression.
+
+# Day 3: Conditional logic
+
+## If-else
+if-else statements inside python can help create a flow of how a set of given should be executed
+
+## Flattened if-else statements
+Often use case for exclusive option, if one option is no executed then the other will be executed
+
+## Nested if-else statements
+Nested flow allows multiple other if-else statements to exit inside a flow, whether often each option is checked against some criteria
+
+## elif
+just as if-else, elif which stands for else-if, can be used between if and else statements
+
+## indentation
+Inside IDE, indents help you see flow of nested or flattened of conditional logic, they provide visual cues which are very important 
