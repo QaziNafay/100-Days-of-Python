@@ -27,7 +27,7 @@ if age >= 18:
         blood_type = input("What is your blood type? Reply with Y for O positive and Z for O negative\n").lower()
 
         donation_method = input(
-            "How would you prefer to donate blood 1. Apheresis\n 2. Blood letting\n 3. Amputation\n?")
+            "How would you prefer to donate blood\n 1. Apheresis\n 2. Blood letting\n 3. Amputation\n")
         # oops
         if blood_type == "y":
             if donation_method == "1":

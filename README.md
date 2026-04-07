@@ -89,3 +89,15 @@ just as if-else, elif which stands for else-if, can be used between if and else 
 
 ## indentation
 Inside IDE, indents help you see flow of nested or flattened of conditional logic, they provide visual cues which are very important 
+
+# # Day 4: Randomization in Python and lists
+
+## Randomization
+in Python is works by importing 'random' into python, random.randint(a, b) can generate random between numbers, while random.choice can be used for lists containing string data such as names
+
+## Lists
+In Python allow to create a set of data such as 'name of fruits', indexing inside the list or offset begins with 0, certain functions like append() add the items to the end of the list
+
+## Nested lists
+Allows multiple lists to exist to inside to single larger one
+
