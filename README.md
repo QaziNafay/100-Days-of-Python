@@ -110,4 +110,4 @@ Loops allow repetitive execution of a block of code without rewriting it multipl
 The `for` loop works with `in` to iterate through elements in a sequence such as lists or strings, executing code for each item.
 
 ## Range()  
-The `range()` function generates a sequence of numbers within a given limit, commonly used with loops to control iteration count.
+The `range()` function generates a sequence of numbers within a given limit, commonly used with loops to control iteration count..
