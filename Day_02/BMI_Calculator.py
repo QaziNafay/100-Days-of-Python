@@ -8,3 +8,4 @@ if weight_type == "lbs":
 bmi = weight / (height ** 2)
 print(F"Your BMI is ", (round(bmi, 2)))
       # i will probably use f string here
+#
