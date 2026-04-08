@@ -25,4 +25,4 @@ elif random_no_range == 1 and user_choice == "tails":
 else:
     print("Well, probably some particle from cosmic radiation interacted with my circuits and flipped a very sensitive bit which resulted in an unholy (Pythagorean reference c:) output:\nDraw")
 
-# This programs hints at interplay of chaos and order in nature and universe as a whole, for more look up the video titled "The relationship between chaos, fractal and physics" on YT
+# ...This programs hints at interplay of chaos and order in nature and universe as a whole, for more look up the video titled "The relationship between chaos, fractal and physics" on YT

@@ -18,4 +18,4 @@ elif age >= 16:
     print("You can play the game, however certain aspects will be censored")
 else:
     print("This game is not for children")
-# ok it's working c:
+# ok it's working c: ...
