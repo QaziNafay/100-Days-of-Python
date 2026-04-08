@@ -101,3 +101,13 @@ In Python allow to create a set of data such as 'name of fruits', indexing insid
 ## Nested lists
 Allows multiple lists to exist to inside to single larger one
 
+# Day 5: Loops
+
+## Loops  
+Loops allow repetitive execution of a block of code without rewriting it multiple times, making iteration efficient and structured.
+
+## For and in function  
+The `for` loop works with `in` to iterate through elements in a sequence such as lists or strings, executing code for each item.
+
+## Range()  
+The `range()` function generates a sequence of numbers within a given limit, commonly used with loops to control iteration count.
