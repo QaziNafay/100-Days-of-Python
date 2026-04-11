@@ -111,3 +111,11 @@ The `for` loop works with `in` to iterate through elements in a sequence such as
 
 ## Range()  
 The `range()` function generates a sequence of numbers within a given limit, commonly used with loops to control iteration count..
+
+# Day 6: Functions
+
+## Def
+'Def' in python allows to define a function
+
+# While
+'While' function can be used to generate loops, and can be used alongside defined functions ('def') and even conditional logic can be used alongside it.
