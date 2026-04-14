@@ -119,3 +119,8 @@ The `range()` function generates a sequence of numbers within a given limit, com
 
 # While
 'While' function can be used to generate loops, and can be used alongside defined functions ('def') and even conditional logic can be used alongside it.
+
+# Day 7: Hangman Game
+
+## Exercise
+The game brings back everything back together that was learned in previous 6 days, however it can be improved further.
