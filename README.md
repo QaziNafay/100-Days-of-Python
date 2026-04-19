@@ -124,3 +124,17 @@ The `range()` function generates a sequence of numbers within a given limit, com
 
 ## Exercise
 The game brings back everything back together that was learned in previous 6 days, however it can be improved further.
+
+# Day 8: Function Parameters & Arguments
+
+## Function inputs
+Inside a 'function(input)' inputs can be defined as internal or external inputs
+
+## Parameters
+inside a function, '(parameter)' can be used to define certain function within program
+
+## Arguments
+Arguments refers to the value of parameters
+
+## Positional or Keyword Arguments
+As the 'function()' is called inside the program, it either relies on position of parameters inside function or if 'keyword argument' is used then direction of parameters inside a function disregarded altogether as it is defined by keyword argument.
