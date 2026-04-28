@@ -144,5 +144,13 @@ As the 'function()' is called inside the program, it either relies on position o
 ## Dictionary
 Just as lists inside python, dictionaries can store data inside **'key'** and **'values'**
 
-# Nesting inside Dictionary
+## Nesting inside Dictionary
 Lists and dictionaries can be nested inside a given dictionary to create complex data structures
+
+# Day 10:
+
+## Return
+Inside a function "return" outputs a value for that function which can further be used inside other functions
+
+## Docstrings
+Can be used for multiline comments inside python so as long as it is assigned to a variable
