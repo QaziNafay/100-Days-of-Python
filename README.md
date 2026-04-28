@@ -139,7 +139,7 @@ Arguments refers to the value of parameters
 ## Positional or Keyword Arguments
 As the 'function()' is called inside the program, it either relies on position of parameters inside function or if 'keyword argument' is used then direction of parameters inside a function disregarded altogether as it is defined by keyword argument.
 
-# Day 9:
+# Day 9: Dictionaries
 
 ## Dictionary
 Just as lists inside python, dictionaries can store data inside **'key'** and **'values'**
@@ -147,7 +147,7 @@ Just as lists inside python, dictionaries can store data inside **'key'** and **
 ## Nesting inside Dictionary
 Lists and dictionaries can be nested inside a given dictionary to create complex data structures
 
-# Day 10:
+# Day 10: Return function
 
 ## Return
 Inside a function "return" outputs a value for that function which can further be used inside other functions
